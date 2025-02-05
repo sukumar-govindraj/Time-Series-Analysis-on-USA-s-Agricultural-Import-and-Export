@@ -48,6 +48,7 @@ The dataset used in this project is sourced from the **USDA ERS - U.S. Agricultu
 ### **3.2 Data Transformations**
 
 - **Log Transformation:** Applied to stabilize variance and remove heteroscedasticity.
+- 
 - **Seasonal Differencing:** Performed to make the series stationary for time series modeling.
 - **Decomposition:** Used to separate data into **trend, seasonality, and residual components**.
 
