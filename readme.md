@@ -1,6 +1,5 @@
-# **U.S. Agricultural Trade Patterns and Forecasting**
 ![image](https://github.com/user-attachments/assets/4eceae34-8a1f-4c7e-8a71-6aa8d51a0d5d)
-
+# **U.S. Agricultural Trade Patterns and Forecasting**
 
 ## **Project Overview**
 This project analyzes **U.S. agricultural trade data from 1975 to 2024** to identify patterns, trends, and seasonal effects in exports. Using **time series forecasting models**, we predict future export trends, helping policymakers and stakeholders make data-driven decisions.
