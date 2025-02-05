@@ -18,6 +18,7 @@ This analysis provides actionable insights to **improve trade planning, market d
 - **Time Frame:** 1975 - 2024
 - **Data Variables:** Year, Imports, Exports, Trade Balances
 - **Format:** Monthly raw trade data (unadjusted for seasonality)
+- 
 ![image](https://github.com/user-attachments/assets/a644b0aa-c7c8-4d56-bf0a-945efb5e9711)
 
 ---
